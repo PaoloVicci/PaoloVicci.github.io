@@ -3886,7 +3886,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #1A2229;
+		background-color: #C7001C;
 		text-align: center;
 	}
 
@@ -3895,7 +3895,7 @@ input, select, textarea {
 		}
 
 			#footer .icons a {
-				color: rgba(0, 0, 0, 1);
+				color: rgba(255, 255, 255, 1);
 			}
 
 				#footer .icons a:hover {
@@ -3903,7 +3903,7 @@ input, select, textarea {
 				}
 
 		#footer .copyright {
-			color: rgba(0, 0, 0, 1);
+			color: rgba(255, 255, 255, 1);
 			font-size: 0.8em;
 			letter-spacing: 0.225em;
 			list-style: none;
@@ -3912,7 +3912,7 @@ input, select, textarea {
 		}
 
 			#footer .copyright li {
-				border-left: solid 1px rgba(0, 0, 0, 1);
+				border-left: solid 1px rgba(255, 255, 255, 1);
 				display: inline-block;
 				line-height: 1em;
 				margin-left: 1em;
@@ -3976,7 +3976,7 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.9);
+		background-color: #C7001C;
 	}
 
 	body.is-mobile.landing #page-wrapper {
