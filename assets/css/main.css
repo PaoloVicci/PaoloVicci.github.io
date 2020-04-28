@@ -2703,15 +2703,15 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: #002e59;
+			background-color: rgba(0,46,89, 0.075);
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: #002e59;
+			background-color: rgba(0,46,89, 0.15);
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: #002e59;
+			background-color: rgba(0,46,89, 0.225);
 		}
 
 		.spotlight:nth-child(4) {
