@@ -2703,15 +2703,15 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: rgba(0, 0, 0, 0.075);
+			background-color: #002e59;
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.15);
+			background-color: #002e59;
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.225);
+			background-color: #002e59;
 		}
 
 		.spotlight:nth-child(4) {
@@ -2980,7 +2980,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #C7001C;
 			color: #d3d4e4;
 		}
 
